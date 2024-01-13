@@ -6,7 +6,7 @@ package polaka;
 
 /**
  *
- * @author parti
+ * @author ManuelMaquinaCNC
  */
 import java.util.LinkedList;
 import java.util.*;
